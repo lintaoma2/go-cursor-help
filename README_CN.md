@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Release](https://img.shields.io/github/v/release/yuaotian/go-cursor-help?style=flat-square&logo=github&color=blue)](https://github.com/yuaotian/go-cursor-help/releases/latest)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square&logo=bookstack)](https://github.com/yuaotian/go-cursor-help/blob/master/LICENSE)
-[![Stars](https://img.shields.io/github/stars/yuaotian/go-cursor-help?style=flat-square&logo=github)](https://github.com/yuaotian/go-cursor-help/stargazers)
+[![Release](https://img.shields.io/github/v/release/lintaoma2/go-cursor-help?style=flat-square&logo=github&color=blue)](https://github.com/lintaoma2/go-cursor-help/releases/latest)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square&logo=bookstack)](https://github.com/lintaoma2/go-cursor-help/blob/master/LICENSE)
+[![Stars](https://img.shields.io/github/stars/lintaoma2/go-cursor-help?style=flat-square&logo=github)](https://github.com/lintaoma2/go-cursor-help/stargazers)
 
 [🌟 English](README.md) | [🌏 中文](README_CN.md) | [🌏 日本語](README_JP.md)
 
@@ -112,12 +112,12 @@ irm https://wget.la/https://raw.githubusercontent.com/lintaoma2/go-cursor-help/r
    或在打开的窗口中输入: Start-Process pwsh -Verb RunAs
 4. 在管理员终端中输入以下重置脚本:
 
-irm https://wget.la/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
+irm https://wget.la/https://raw.githubusercontent.com/lintaoma2/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
 ```
 
 增强版脚本：
 ```powershell
-irm https://wget.la/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
+irm https://wget.la/https://raw.githubusercontent.com/lintaoma2/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
 ```
 
 ##### 方法三：通过搜索启动
@@ -128,12 +128,12 @@ irm https://wget.la/https://raw.githubusercontent.com/yuaotian/go-cursor-help/re
 
 在管理员终端中输入重置脚本:
 ```powershell
-irm https://wget.la/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
+irm https://wget.la/https://raw.githubusercontent.com/lintaoma2/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
 ```
 
 增强版脚本：
 ```powershell
-irm https://wget.la/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
+irm https://wget.la/https://raw.githubusercontent.com/lintaoma2/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
 ```
 
 ### 🔧 PowerShell 安装指南
@@ -175,7 +175,7 @@ winget install --id Microsoft.PowerShell --source winget
 
 ### 📦 手动安装
 
-> 从 [releases](https://github.com/yuaotian/go-cursor-help/releases/latest) 下载适合您系统的文件
+> 从 [releases](https://github.com/lintaoma2/go-cursor-help/releases/latest) 下载适合您系统的文件
 
 <details>
 <summary>Windows 安装包</summary>
@@ -305,19 +305,19 @@ touch ~/Library/Application\ Support/Caches/cursor-updater
 #### macOS
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_free_trial_reset.sh -o ./cursor_free_trial_reset.sh && sudo bash ./cursor_free_trial_reset.sh && rm ./cursor_free_trial_reset.sh
+curl -fsSL https://raw.githubusercontent.com/lintaoma2/go-cursor-help/refs/heads/master/scripts/run/cursor_free_trial_reset.sh -o ./cursor_free_trial_reset.sh && sudo bash ./cursor_free_trial_reset.sh && rm ./cursor_free_trial_reset.sh
 ```
 
 #### Linux
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_free_trial_reset.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/lintaoma2/go-cursor-help/refs/heads/master/scripts/run/cursor_free_trial_reset.sh | sudo bash
 ```
 
 #### Windows
 
 ```powershell
-irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_free_trial_reset.sh | iex
+irm https://raw.githubusercontent.com/lintaoma2/go-cursor-help/refs/heads/master/scripts/run/cursor_free_trial_reset.sh | iex
 ```
 
 </details>
@@ -382,7 +382,7 @@ irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yuaotian/go-cursor-help&type=Date)](https://star-history.com/#yuaotian/go-cursor-help&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=lintaoma2/go-cursor-help&type=Date)](https://star-history.com/#lintaoma2/go-cursor-help&Date)
 
 ![Repobeats analytics image](https://repobeats.axiom.co/api/embed/ddaa9df9a94b0029ec3fad399e1c1c4e75755477.svg "Repobeats analytics image")
 
