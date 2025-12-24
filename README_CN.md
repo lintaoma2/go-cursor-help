@@ -14,35 +14,6 @@
 
 ---
 
-<div align="center">
-
-## 💰 Cursor 官网正规成品号
-
-⚡️ **月抛号 | 独享账号 | 超高性价比**
-
-| 套餐 | 价格 | 原价 | 权益说明 |
-|:---:|:---:|:---:|:---|
-| **Pro** | ¥65/RMB月 | $20 (官价约¥145/RMB月) | 含 $20 基础额度 + 额外奖励 ≈ 总价值 $65 |
-| **Pro+** | ¥265/RMB月 | $60 (官价约¥435/RMB月) | 含 $70 基础额度 + 额外奖励 ≈ 总价值 $130 |
-| **Ultra** | ¥888/RMB月 | $200 (官价约¥1450/RMB月) | 含 $400 基础额度 + 海量额外奖励 |
-
-> 📖 [官网定价文档](https://cursor.com/cn/docs/account/pricing) | PS: Cursor额度 = 原套餐额度 + 账单透支 + 月末恢复原套餐额度
-
-⚠️ **购买须知**：正规真金充值，独享账号 | 七天质保，按天退款 | 请勿多人共享（限3台设备内）| 少量库存号有效期27~30天
-
-📱 **联系方式**：Telegram: [@yuaotian](https://t.me/yuaotian) | WeChat: `JavaRookie666`
-
----
-
-### 📢 招聘广告位
-
-> 🔥 **广告位招租** - 欢迎联系洽谈合作
->
-> 📧 联系方式：Telegram [@yuaotian](https://t.me/yuaotian) | WeChat: `JavaRookie666`
-
----
-
-</div>
 
 > ⚠️ **重要提示**
 > 
@@ -93,13 +64,13 @@
 **macOS**
 
 ```bash
-curl -fsSL https://wget.la/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_mac_id_modifier.sh -o ./cursor_mac_id_modifier.sh && sudo bash ./cursor_mac_id_modifier.sh && rm ./cursor_mac_id_modifier.sh
+curl -fsSL https://wget.la/https://raw.githubusercontent.com/lintaoma2/go-cursor-help/refs/heads/master/scripts/run/cursor_mac_id_modifier.sh -o ./cursor_mac_id_modifier.sh && sudo bash ./cursor_mac_id_modifier.sh && rm ./cursor_mac_id_modifier.sh
 ```
 
 **Linux**
 
 ```bash
-curl -fsSL https://wget.la/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_linux_id_modifier.sh | sudo bash
+curl -fsSL https://wget.la/https://raw.githubusercontent.com/lintaoma2/go-cursor-help/refs/heads/master/scripts/run/cursor_linux_id_modifier.sh | sudo bash
 ```
 
 > **Linux 用户请注意：** 该脚本通过检查常用路径（`/usr/bin`, `/usr/local/bin`, `$HOME/.local/bin`, `/opt/cursor`, `/snap/bin`）、使用 `which cursor` 命令以及在 `/usr`、`/opt` 和 `$HOME/.local` 目录内搜索，来尝试定位您的 Cursor 安装。如果 Cursor 安装在其他位置或通过这些方法无法找到，脚本可能会失败。请确保可以通过这些标准位置或方法之一访问到 Cursor。
@@ -107,7 +78,7 @@ curl -fsSL https://wget.la/https://raw.githubusercontent.com/yuaotian/go-cursor-
 **Windows**
 
 ```powershell
-irm https://wget.la/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
+irm https://wget.la/https://raw.githubusercontent.com/lintaoma2/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
 ```
 
 
